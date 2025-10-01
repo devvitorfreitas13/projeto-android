@@ -16,7 +16,7 @@ O projeto é um exemplo de site com conteúdo interativo e informações sobre a
 ---
 
 > Acesse o projeto online (GitHub Pages, Netlify ou outro serviço):  
-> [🔗 Clique aqui para acessar o site](#) <!-- Substitua com o seu link -->
+> [🔗 Clique aqui para acessar o site](https://devvitorfreitas13.github.io/projeto-android/) <!-- Substitua com o seu link -->
 
 ---
 
